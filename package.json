@@ -1,0 +1,11 @@
+{
+  "name": "gifit",
+  "version": "0.1.0",
+  "main": "main.js",
+  "scripts": {
+    "dev": "electron ."
+  },
+  "devDependencies": {
+    "electron-prebuilt": "^0.26.1"
+  }
+}
